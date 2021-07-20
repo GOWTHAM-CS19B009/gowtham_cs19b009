@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/gowtham_cs19b009/static/css/main.f3e01a9a.chunk.css",
+    "main.js": "/gowtham_cs19b009/static/js/main.4f04794d.chunk.js",
+    "main.js.map": "/gowtham_cs19b009/static/js/main.4f04794d.chunk.js.map",
+    "runtime-main.js": "/gowtham_cs19b009/static/js/runtime-main.fc1e4e06.js",
+    "runtime-main.js.map": "/gowtham_cs19b009/static/js/runtime-main.fc1e4e06.js.map",
+    "static/js/2.334f95f8.chunk.js": "/gowtham_cs19b009/static/js/2.334f95f8.chunk.js",
+    "static/js/2.334f95f8.chunk.js.map": "/gowtham_cs19b009/static/js/2.334f95f8.chunk.js.map",
+    "index.html": "/gowtham_cs19b009/index.html",
+    "static/css/main.f3e01a9a.chunk.css.map": "/gowtham_cs19b009/static/css/main.f3e01a9a.chunk.css.map",
+    "static/js/2.334f95f8.chunk.js.LICENSE.txt": "/gowtham_cs19b009/static/js/2.334f95f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc1e4e06.js",
+    "static/js/2.334f95f8.chunk.js",
+    "static/css/main.f3e01a9a.chunk.css",
+    "static/js/main.4f04794d.chunk.js"
+  ]
+}
